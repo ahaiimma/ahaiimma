@@ -1,4 +1,5 @@
 # 💫 About Me:
+Full-stack developer: React/Next.js + Node.js | API integrations | SQL databases
 Code Generation: Write boilerplate code, functions, or classes for you in various languages (Python, JavaScript, Java, C#, etc.).<br><br>Debugging: Just paste your code and the error message, and I'll help you find the bug.<br><br>Learning New Tech: Quickly explain a new framework, API, or database concept you need for a client project.<br><br>Brainstorming: Help you architect a solution, plan your database schema, or compare different technical approaches.<br><br>Writing: Assist with documentation, comments in your code, or even outlining a proposal for a client.<br><br>Optimizing: Suggest ways to make your code run faster or more efficiently.
 
 
